@@ -1,1 +1,5 @@
-body {background: red;}
+body {
+    background: blue;
+    text-align: center;
+    color: yellow;
+}
