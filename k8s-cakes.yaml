@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: cakes
-        image: medek1/cakes
+        image: olehmydynskyi/cakes
         resources:
           limits:
             memory: "128Mi"

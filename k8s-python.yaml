@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: web-python
-        image: medek1/simple-python-app:nginx
+        image: olehmydynskyi/simple-python-app:nginx
         resources:
           limits:
             memory: "128Mi"
